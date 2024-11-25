@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/normal_map"
+        android:title="Vista Normal"
+        app:showAsAction="never"
+    />
+    <item
+        android:id="@+id/hybrid_map_map"
+        android:title="Vista Hibrida"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/satellite_map"
+        android:title="Vista Satelital"
+        app:showAsAction="never"
+    />
+    <item
+        android:id="@+id/terrain_map"
+        android:title="Vista Terreno"
+        app:showAsAction="never"
+    />
+
+</menu>
