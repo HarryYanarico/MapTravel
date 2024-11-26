@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MapTravel</string>
-    <string name="google_map_api_key">AIzaSyAumIYrD9p5HTv1eNoDIc0VP3B1TvT8lUE</string>//para crear
+    <string name="google_map_api_key">Aqui va la Api</string>//para crear
     la app
 </resources>
